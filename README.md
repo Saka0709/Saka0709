@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt4OG9uN2Flc29lcXkya25rb3hzamZ6bDMwZ293d3NubTE5eTU3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/123xOhqpkS3N0Q/giphy.gif" alt="Girls und Panzer GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt4OG9uN2Flc29lcXkya25rb3hzamZ6bDMwZ293d3NubTE5eTU3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/123xOhqpkS3N0Q/giphy.gif" alt="Girls und Panzer GIF" width="650"/>
 </p>
 
 <!-- Profil Header -->
@@ -80,10 +80,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saka0709&layout=compact&theme=tokyonight" width="45%">
 </p>
 
-<!-- Snake animation -->
-![snake gif](https://github.com/Saka0709/Saka0709/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <!-- Footer -->
-<p align="center">Thanks for visiting! 🚀</p>
+<p align="center">Thanks For Visiting! 🚀</p>
