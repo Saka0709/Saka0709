@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt4OG9uN2Flc29lcXkya25rb3hzamZ6bDMwZ293d3NubTE5eTU3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/123xOhqpkS3N0Q/giphy.gif" alt="Girls und Panzer GIF" width="650"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt4OG9uN2Flc29lcXkya25rb3hzamZ6bDMwZ293d3NubTE5eTU3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/123xOhqpkS3N0Q/giphy.gif" alt="Girls und Panzer GIF" width="600"/>
 </p>
 
 <!-- Profil Header -->
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/-Next.js-F7F7F7?style=for-the-badge&logo=next.js&logoColor=000000"/>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
