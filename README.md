@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/Mhdsakaap0709"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<!-- About Section -->https://www.linkedin.com/in/muhammad-saka-abi-pratama-b9a134290/
+<!-- About Section -->
 ### 👨‍💻 About Me
 
 - 🎓 I’m currently studying at STMIK Jakarta STI&K.
