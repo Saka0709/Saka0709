@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 
 <!-- Socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedinwww.linkedin.com/in/muhammad-saka-abi-pratama"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muhammad-saka-abi-pratama"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.youtube.com/@Franzzz_"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/@Mhdsakaap0709"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/Mhdsakaap0709"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<!-- About Section -->
+<!-- About Section -->https://www.linkedin.com/in/muhammad-saka-abi-pratama-b9a134290/
 ### 👨‍💻 About Me
 
 - 🎓 I’m currently studying at STMIK Jakarta STI&K.
