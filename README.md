@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/E20aoZIA2zoAAAAC/erika-itsumi-itsumi-erika.gif" alt="Girls und Panzer GIF" width="500"/>
+  <img src="https://media1.tenor.com/m/E20aoZIA2zoAAAAC/erika-itsumi-itsumi-erika.gif" alt="Girls und Panzer GIF" width="600"/>
 </p>
 
 <!-- Profil Header -->
