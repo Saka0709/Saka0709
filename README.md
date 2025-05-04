@@ -1,4 +1,3 @@
-
 <!--
 **Saka0709/Saka0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/E20aoZIA2zoAAAAC/erika-itsumi-itsumi-erika.gif" alt="Girls und Panzer GIF" width="600"/>
+  <img src="https://media1.tenor.com/m/6amuFPmzdmIAAAAd/lycoris-recoil-takina.gif" alt="Girls und Panzer GIF" width="500"/>
 </p>
 
 <!-- Profil Header -->
